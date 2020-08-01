@@ -1,0 +1,5 @@
+anaconda
+numpy
+tensorflow
+keras
+pillow
