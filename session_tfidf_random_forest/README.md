@@ -1,0 +1,1 @@
+Hands-on exercise for a session planned within EPAM.
