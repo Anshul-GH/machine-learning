@@ -260,7 +260,6 @@ Werkzeug==1.0.1
 widgetsnbextension==3.5.1
 wrapt==1.12.1
 wurlitzer @ file:///tmp/build/80754af9/wurlitzer_1594753850195/work
-xgboost==1.3.3
 xlrd==1.2.0
 XlsxWriter @ file:///tmp/build/80754af9/xlsxwriter_1602692860603/work
 xlwt==1.3.0
