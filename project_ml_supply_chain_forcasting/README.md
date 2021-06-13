@@ -1,0 +1,1 @@
+https://towardsdatascience.com/machine-learning-for-supply-chain-forecast-66ef297f58f2
